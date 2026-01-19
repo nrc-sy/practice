@@ -4,3 +4,4 @@ This is a sample text file for you test around in your repository in Git. Use it
 
 New Change!
 hello, world
+hi hi
